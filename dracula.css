@@ -38,7 +38,7 @@ div#maintoolbar {
  margin-left: 0%;
  padding-right: 0%;
  float: left;
- background: #44475a !important;
+ background: #282a36 !important;
 }
 #maintoolbar {
  margin-bottom: -3px;
@@ -240,8 +240,8 @@ body > #header #header-container {
  -webkit-box-sizing: border-box;
 }
 body > #header {
- background: #44475a;
- background-color: #44475a;
+ background: #282a36;
+ background-color: #282a36;
  position: relative;
  z-index: 100;
 }
@@ -450,7 +450,7 @@ div#notebook {
  padding-top: 4px;
 }
 .notebook_app {
- background-color: #44475a;
+ background-color: #282a36;
 }
 #notebook-container {
  padding: 13px 2px;
@@ -483,7 +483,7 @@ div#header-container {
 .notebook_app #header,
 .edit_app #header {
  box-shadow: none !important;
- background-color: #44475a;
+ background-color: #282a36;
  border-bottom: 2px solid rgba(80,92,133,.22);
 }
 #header,
@@ -491,7 +491,7 @@ div#header-container {
  font-family: sans-serif;
  font-size: 11pt;
  box-shadow: none;
- background-color: #44475a;
+ background-color: #282a36;
 }
 #header .header-bar,
 .edit_app #header .header-bar {
@@ -500,7 +500,7 @@ div#header-container {
 }
 body > #header .header-bar {
  width: 100%;
- background: #44475a;
+ background: #282a36;
 }
 span.checkpoint_status,
 span.autosave_status {
@@ -510,7 +510,7 @@ span.autosave_status {
 }
 #menubar,
 div#menubar {
- background-color: #6272a4;
+ background-color: #282a36;
  padding-top: 1px;
  padding-bottom: 2px;
  padding-left: 2px;
@@ -518,7 +518,7 @@ div#menubar {
 }
 #menubar .navbar,
 .navbar-default {
- background-color: #44475a;
+ background-color: #282a36;
  margin-bottom: 0px;
  margin-top: 0px;
 }
@@ -695,8 +695,8 @@ div#notification_notebook.notification_widget.btn.btn-xs.navbar-btn {
 #kernel_indicator {
  float: right !important;
  color: #bd93f9;
- background: #44475a;
- background-color: #44475a;
+ background: #282a36;
+ background-color: #282a36;
  border-left: 2px solid #bd93f9;
  padding-top: 0px;
  padding-bottom: 4px;
@@ -707,8 +707,8 @@ div#notification_notebook.notification_widget.btn.btn-xs.navbar-btn {
 #kernel_indicator .kernel_indicator_name {
  font-size: 17px;
  color: #8be9fd;
- background: #44475a;
- background-color: #44475a;
+ background: #282a36;
+ background-color: #282a36;
  padding-left: 5px;
  padding-right: 5px;
  margin-top: 4px;
@@ -802,7 +802,7 @@ div.notification_widget {
 }
 div#ipython_notebook {
  /*display: none; */
- background: #6272a4;
+ background: #282a36;
 }
 i.fa.fa-icon {
  -webkit-font-smoothing: antialiased;
@@ -3251,7 +3251,7 @@ span.save_widget span.filename {
  font-size: 150%;
  color: #8be9fd;
  font-weight: bold;
- background-color: #44475a;
+ background-color: #282a36;
 }
 span.save_widget span.filename:hover {
  color: #61afef;
