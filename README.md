@@ -7,5 +7,5 @@ To use it:
 3) Open or reload your Jupyter Notebook
 
 See the Screenshots!
-![](https://github.com/lex-andr/Dracula-Notebook/blob/main/Dracula-SS.png?raw=true)
+![](https://github.com/lex-andr/Dracula-Notebook/blob/main/Dracula.png?raw=true)
 
